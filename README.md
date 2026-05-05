@@ -1,6 +1,5 @@
 # Business Intelligence Analyst Business Case Project: Sales Performance Analysis
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![SQL (BigQuery)](https://img.shields.io/badge/SQL%20(BigQuery)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-F9AB00?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
