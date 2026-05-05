@@ -39,3 +39,7 @@ The Main Goals of this analysis is to maintain and improve overall sales perform
 
 # Dashboard: 
 [Dashboard](https://datastudio.google.com/reporting/a90dbc1b-22c9-4b38-a2b4-dc39f76ea4cb)
+
+## 👤 Author
+
+Grace Natalie Catherine | Data Analyst Portfolio Project
