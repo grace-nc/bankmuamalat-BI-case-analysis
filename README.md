@@ -2,7 +2,7 @@
 ![SQL (BigQuery)](https://img.shields.io/badge/SQL%20(BigQuery)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-F9AB00?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
-This final project completed as part of Business Intelligence Analyst (Bank Muamalat x Rakamin) Virtual Internship Program.
+This final project completed as part of Business Intelligence Analyst Project-based Internship Program (Rakamin x Bank Muamalat).
 
 Dataset Source: [Dataset](https://drive.google.com/file/d/1RwsBQ1FriNfz6qiq0V5nD7gF7jO81To3/view?usp=sharing)
 
