@@ -16,12 +16,22 @@ The company lacks a structured and comprehensive view of sales performance deriv
 
 As a Business Intelligence Analyst, **what data-driven strategies can be proposed to maintain or increase sales performance based on the available data**?
 
+# Goals
+The Main Goals of this analysis is to maintain and improve overall sales performance based on the available transactional data.
+By:
+Identify the top-performing product category by sales and orders
+Analyze geographic sales performance
+Provide actionable strategies to improve revenue and growth
+
 # Tools
 - SQL, Google BigQuery
 - Excel
 - Looker Studio
 
 # Conclusion:
+- The business shows a clear split between high-value (Robots, Drones) and high-volume (eBooks, Training Videos) products, with revenue driven by high-value transactions and demand driven by low-cost digital products.
+- Drone Kits, Drones, and Training Videos are the stable product categories, ranking in the top 5 across both revenue and order volume.
+- Revenue is concentrated in Washington, followed by Houston, indicating strong demand in these two cities; Sacramento and San Diego show moderate, growth-ready potential. Meanwhile, Philadelphia underperforms across both metrics, reflecting weaker market penetration and lower adoption of tech education.
 
 # Dashboard: 
 [Dashboard](https://datastudio.google.com/reporting/a90dbc1b-22c9-4b38-a2b4-dc39f76ea4cb)
