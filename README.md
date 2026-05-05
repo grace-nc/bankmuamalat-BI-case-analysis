@@ -17,11 +17,10 @@ The company lacks a structured and comprehensive view of sales performance deriv
 As a Business Intelligence Analyst, **what data-driven strategies can be proposed to maintain or increase sales performance based on the available data**?
 
 # Goals
-The Main Goals of this analysis is to maintain and improve overall sales performance based on the available transactional data.
-By:
-Identify the top-performing product category by sales and orders
-Analyze geographic sales performance
-Provide actionable strategies to improve revenue and growth
+The Main Goals of this analysis is to maintain and improve overall sales performance based on the available transactional data, by:
+- Identify the top-performing product category by sales and orders
+- Analyze geographic sales performance
+- Provide actionable strategies to improve revenue and growth
 
 # Tools
 - SQL, Google BigQuery
