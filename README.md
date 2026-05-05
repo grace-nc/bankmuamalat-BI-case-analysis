@@ -1,6 +1,6 @@
 # bank-muamalat-digital-user-churn-analysis-project
 
-# Business Intelligence Analyst (Bank Muamalat x Rakamin Project-based Internship) Case Project: Digital User Churn Analysis
+# Business Intelligence Analyst Business Case Project: Digital User Churn Analysis
 This final project completed as part of Business Intelligence Analyst (Bank Muamalat x Rakamin) Virtual Internship Program.
 
 Dataset Source: [Dataset](https://drive.google.com/file/d/1RwsBQ1FriNfz6qiq0V5nD7gF7jO81To3/view?usp=sharing)
