@@ -7,15 +7,16 @@ Dataset Source: [Dataset](https://drive.google.com/file/d/1RwsBQ1FriNfz6qiq0V5nD
 
 # Business Context
 
-Bank Muamalat, as a digital banking institution, leverages its digital platforms to drive user transactions and overall business growth. As digital adoption continues to increase, understanding transaction patterns and user behavior becomes essential to evaluate sales performance and identify opportunities for growth.
+A Robotics & Drone Education Ecosystem Company leverages its digital platforms to drive user engagement, product adoption, and overall business growth. As digital learning adoption continues to rise, the volume and complexity of user interaction and transactional data have also increased significantly. Understanding purchasing patterns, learner behavior, and product utilization is essential to evaluate sales performance and identify growth opportunities.
 
-By utilizing available transactional data, this project aims to analyze sales performance across key dimensions such as product categories and geographic distribution. The insights generated are intended to support data-driven decision-making in optimizing revenue and improving overall business performance.
+To remain competitive and maximize revenue potential, the company needs to effectively transform its data into actionable insights. Analyzing sales performance across key dimensions, such as product categories (e.g., robot kits, drone kits, blueprints, and training content) and geographic distribution, provides a strong foundation for data-driven decision-making aimed at optimizing revenue and sustaining long-term business growth.
+
 
 # Problem Statement
 
-Bank Muamalat lacks a structured and comprehensive view of sales performance derived from digital transactions. Without clear visibility into which products and regions contribute most to revenue, it becomes challenging to develop effective strategies to sustain or increase sales.
+The company lacks a structured and comprehensive view of sales performance derived from digital transactions. Without clear visibility into which products and regions contribute most to revenue, it becomes challenging to develop effective strategies to sustain or increase sales.
 
-As a BI Analyst, **what data-driven strategies can be proposed to maintain or increase sales performance based on the available data**?
+As a Business Intelligence Analyst, **what data-driven strategies can be proposed to maintain or increase sales performance based on the available data**?
 
 # Tools
 - SQL, Google BigQuery
