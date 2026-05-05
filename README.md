@@ -21,6 +21,8 @@ As a BI Analyst, **what data-driven strategies can be proposed to maintain or in
 - SQL, Google BigQuery
 - Excel
 - Looker Studio
-**Dashboard** : [Dashboard](https://datastudio.google.com/reporting/a90dbc1b-22c9-4b38-a2b4-dc39f76ea4cb)
 
 # Conclusion:
+
+# Dashboard: 
+[Dashboard](https://datastudio.google.com/reporting/a90dbc1b-22c9-4b38-a2b4-dc39f76ea4cb)
