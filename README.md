@@ -29,7 +29,7 @@ Provide actionable strategies to improve revenue and growth
 - Looker Studio
 
 # Conclusion:
-- The business shows a clear split between high-value (Robots, Drones) and high-volume (eBooks, Training Videos) products, with revenue driven by high-value transactions and demand driven by low-cost digital products.
+- The business shows a clear split between high-value (complex products such as Robots & Drones) and high-volume (digital contents products such as eBooks and Training Videos) products, with revenue driven by high-value transactions and demand driven by low-cost digital products.
 - Drone Kits, Drones, and Training Videos are the stable product categories, ranking in the top 5 across both revenue and order volume.
 - Revenue is concentrated in Washington, followed by Houston, indicating strong demand in these two cities; Sacramento and San Diego show moderate, growth-ready potential. Meanwhile, Philadelphia underperforms across both metrics, reflecting weaker market penetration and lower adoption of tech education.
 
