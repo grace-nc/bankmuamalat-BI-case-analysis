@@ -16,3 +16,11 @@ By utilizing available transactional data, this project aims to analyze sales pe
 Bank Muamalat lacks a structured and comprehensive view of sales performance derived from digital transactions. Without clear visibility into which products and regions contribute most to revenue, it becomes challenging to develop effective strategies to sustain or increase sales.
 
 As a BI Analyst, **what data-driven strategies can be proposed to maintain or increase sales performance based on the available data**?
+
+# Tools
+- SQL, Google BigQuery
+- Excel
+- Looker Studio
+**Dashboard** : [Dashboard](https://datastudio.google.com/reporting/a90dbc1b-22c9-4b38-a2b4-dc39f76ea4cb)
+
+# Conclusion:
