@@ -1,4 +1,4 @@
-# Business Intelligence Analyst Business Case Project: Sales Performance Analysis
+# Business Intelligence Analyst Business Case Project: Digital User Churn Dashboard & Analysis
 ![SQL (BigQuery)](https://img.shields.io/badge/SQL%20(BigQuery)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-F9AB00?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
