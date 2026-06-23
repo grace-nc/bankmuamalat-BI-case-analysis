@@ -4,7 +4,7 @@
 
 This final project completed as part of Business Intelligence Analyst Project-based Internship Program (Rakamin x Bank Muamalat).
 
-Dataset Source: [Dataset](https://drive.google.com/file/d/1RwsBQ1FriNfz6qiq0V5nD7gF7jO81To3/view?usp=sharing)
+Dataset Source: [Business Intelligence Analyst Case Dataset](https://drive.google.com/file/d/1RwsBQ1FriNfz6qiq0V5nD7gF7jO81To3/view?usp=sharing)
 
 ## Business Context
 
