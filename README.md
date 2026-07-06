@@ -4,8 +4,6 @@
 
 This final project completed as part of Business Intelligence Analyst Project-based Internship Program (Rakamin x Bank Muamalat).
 
-Dataset Source: [Business Intelligence Analyst Case Dataset](https://drive.google.com/file/d/1RwsBQ1FriNfz6qiq0V5nD7gF7jO81To3/view?usp=sharing)
-
 ## Business Context
 
 A Robotics & Drone Education Ecosystem Company leverages its digital platforms to drive user engagement, product adoption, and overall business growth. As digital learning adoption continues to rise, the volume and complexity of user interaction and transactional data have also increased significantly. Understanding purchasing patterns, learner behavior, and product utilization is essential to evaluate sales performance and identify growth opportunities.
