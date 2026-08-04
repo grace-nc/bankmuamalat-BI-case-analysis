@@ -27,7 +27,7 @@ The Main Goals of this analysis is to maintain and improve overall sales perform
 - SQL
 - Google BigQuery
 - Looker Studio
-- Microsoft Excel
+- Microsoft Excel (csv file)
 
 ## Conclusion:
 - The business shows a clear split between high-value (complex products such as Robots & Drones) and high-volume (digital contents products such as eBooks and Training Videos) products, with revenue driven by high-value transactions and demand driven by low-cost digital products.
