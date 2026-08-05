@@ -24,8 +24,7 @@ The Main Goals of this analysis is to maintain and improve overall sales perform
 - Provide actionable strategies to improve revenue and growth
 
 ## Tools
-- SQL
-- Google BigQuery
+- SQL (Google BigQuery)
 - Looker Studio
 
 ## Conclusion:
