@@ -35,6 +35,15 @@ The Main Goals of this analysis is to maintain and improve overall sales perform
 * **Sacramento and San Diego** represent stable mid-tier markets with moderate performance across both metrics, indicating consistent demand and further growth potential.
 * **Philadelphia** consistently underperforms in both sales and orders, indicating weaker market penetration, lower customer activity, and comparatively lower adoption of tech education.
 
+## Business Recommendations
+
+* **Maximize high-value revenue** by bundling, upselling, and offering financing options for **Robots** and **Drones**.
+* **Leverage high-demand products** (**eBooks** and **Training Videos**) as entry points to cross-sell higher-value products.
+* **Reduce revenue concentration** by growing **Drone Kits** and **Drones** to create a more balanced revenue portfolio.
+* **Expand stable product categories** through new bundles and product variations for **Drone Kits, Drones, and Training Videos**.
+* **Improve low-performing products** by optimizing pricing, simplifying product complexity, and strengthening their value proposition.
+* **Optimize geographic strategies** by retaining customers in **Washington** and **Houston**, accelerating growth in **Sacramento** and **San Diego**, and increasing market penetration in **Philadelphia**.
+
 ## Dashboard
 [Dashboard](https://datastudio.google.com/reporting/a90dbc1b-22c9-4b38-a2b4-dc39f76ea4cb)
 
