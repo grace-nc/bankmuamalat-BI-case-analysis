@@ -27,12 +27,15 @@ The Main Goals of this analysis is to maintain and improve overall sales perform
 - SQL (Google BigQuery)
 - Looker Studio
 
-## Conclusion:
-- The business shows a clear split between high-value (complex products such as Robots & Drones) and high-volume (digital contents products such as eBooks and Training Videos) products, with revenue driven by high-value transactions and demand driven by low-cost digital products.
-- Drone Kits, Drones, and Training Videos are the stable product categories, ranking in the top 5 across both revenue and order volume.
-- Revenue is concentrated in Washington, followed by Houston, indicating strong demand in these two cities; Sacramento and San Diego show moderate, growth-ready potential. Meanwhile, Philadelphia underperforms across both metrics, reflecting weaker market penetration and lower adoption of tech education.
+## Key Insights
+* There is a clear split between **high-priced and high-volume products**, where **revenue is driven by high-priced, complex digital products** (Robots and Drones), while **demand is driven by low-cost digital products** (eBooks and Training Videos).
+* **Strong sales performance is not necessarily linked to high order volume**, but rather to **a small number of high-priced transactions**.
+* **Drone Kits, Drones, and Training Videos** are the most stable product categories, as they consistently rank among the **top five in both sales revenue and order volume**.
+* **Washington and Houston** consistently lead in both sales and orders, indicating strong and sustained market demand.
+* **Sacramento and San Diego** represent stable mid-tier markets with moderate performance across both metrics, indicating consistent demand and further growth potential.
+* **Philadelphia** consistently underperforms in both sales and orders, indicating weaker market penetration, lower customer activity, and comparatively lower adoption of tech education.
 
-## Dashboard: 
+## Dashboard
 [Dashboard](https://datastudio.google.com/reporting/a90dbc1b-22c9-4b38-a2b4-dc39f76ea4cb)
 
 ## 👤 Author
