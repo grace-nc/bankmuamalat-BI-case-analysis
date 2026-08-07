@@ -44,6 +44,10 @@ The Main Goals of this analysis is to maintain and improve overall sales perform
 * **Improve low-performing products** by optimizing pricing, simplifying product complexity, and strengthening their value proposition.
 * **Optimize geographic strategies** by retaining customers in **Washington** and **Houston**, accelerating growth in **Sacramento** and **San Diego**, and increasing market penetration in **Philadelphia**.
 
+## Conclusion
+
+This project successfully analyzed sales performance across product categories and geographic regions, identifying the key drivers of revenue and demand. The insights support data-driven strategies to optimize product offerings, strengthen market performance, and drive sustainable business growth.
+
 ## Dashboard
 [Dashboard](https://datastudio.google.com/reporting/a90dbc1b-22c9-4b38-a2b4-dc39f76ea4cb)
 
