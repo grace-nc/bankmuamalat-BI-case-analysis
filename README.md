@@ -49,8 +49,8 @@ The Main Goals of this analysis is to maintain and improve overall sales perform
 This project successfully analyzed sales performance across product categories and geographic regions, identifying the key drivers of revenue and demand. The insights support data-driven strategies to optimize product offerings, strengthen market performance, and drive sustainable business growth.
 
 ## Dashboard & PPT
-[Dashboard](https://datastudio.google.com/reporting/a90dbc1b-22c9-4b38-a2b4-dc39f76ea4cb)
-[PPT](https://docs.google.com/presentation/d/1QYUOBqL0JIUUpW83ZpUvIX3w6N1d2c0F/edit?usp=sharing&ouid=113253202730031428002&rtpof=true&sd=true)
+* [Dashboard](https://datastudio.google.com/reporting/a90dbc1b-22c9-4b38-a2b4-dc39f76ea4cb)
+* [PPT](https://docs.google.com/presentation/d/1QYUOBqL0JIUUpW83ZpUvIX3w6N1d2c0F/edit?usp=sharing&ouid=113253202730031428002&rtpof=true&sd=true)
 
 ## 👤 Author
 
